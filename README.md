@@ -7,5 +7,5 @@
   The Payroll Management System
  </h1>
  <h5 align="center">
- *Computer Studies - IT Elective II Project - BS CS-4A*
+  <i> Computer Studies - IT Elective II Project - BS CS-4A </i>
 </h5>
