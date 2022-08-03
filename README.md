@@ -20,3 +20,12 @@
 <h3>
   THE DESIGN OF THE PAYROLL MANAGEMENT SYSTEM
 </h3>
+<table> 
+  <thead>
+    <tr>
+      <th align="center"> Sender </th>
+      <th align="center"> Transactions </th> 
+      <th align="center"> Receiver </th>
+    </tr>
+  </thead>
+</table>
