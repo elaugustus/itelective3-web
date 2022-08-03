@@ -20,7 +20,7 @@
 <h3>
   THE DESIGN OF THE PAYROLL MANAGEMENT SYSTEM
 </h3>
-<table> 
+<table align="center"> 
   <thead>
     <tr>
       <th align="center"> Sender </th>
