@@ -28,4 +28,11 @@
       <th align="center"> Receiver </th>
     </tr>
   </thead>
+  <tbody>
+    <tr>
+      <td align="center"> Employee </td>
+      <td align="center"> Preferences, Maintain timecard, Create Employee Report </td>
+      <td align="center"> Project Management Database </td>  
+    </tr>
+  </tbody>
 </table>
