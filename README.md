@@ -20,6 +20,7 @@
 <h3>
   THE DESIGN OF THE PAYROLL MANAGEMENT SYSTEM
 </h3>
+<br>
 <table align="center"> 
   <thead>
     <tr>
@@ -51,3 +52,7 @@
     </tr>
   </tbody>
 </table>
+<br>
+<body align="justify">
+  In order for the management system to cohesively work, the system contains sub-systems that would be significant in understanding the complexity and nature of the different tasks and transactions that the system must assume. 
+</body>
