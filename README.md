@@ -65,7 +65,7 @@
     1. EMPLOYEES
   </b>
   <br>
-  <p align="justify">
+    <p align="justify">
     The system must be able to allow employees to conveniently perform their traditional tasks in building their payroll information. Traditionally, each employee must be able to determine their preference in terms of the payment method, submit their authenticated timecard, and their employee report. These traditional methods of payroll assessment must be inherited by the system. In doing so, each employee is expected to secure an account with their log-in details. Through that, each employee will be able to fill the required information necessary for the payroll system.
   </p>
 </body>
