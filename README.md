@@ -31,8 +31,23 @@
   <tbody>
     <tr>
       <td align="center"> Employee </td>
-      <td align="center"> Preferences, Maintain timecard, Create Employee Report </td>
+      <td align="center"> Preferences, Maintain timecard, Create Employee Report, Login </td>
       <td align="center"> Project Management Database </td>  
+    </tr>
+    <tr>
+      <td align="center"> Commissioned Employee (Also under employee) </td>
+      <td align="center"> Maintain Purchase Order </td> 
+      <td align="center"> </td>
+    </tr>
+    <tr>
+      <td align="center"> Payroll Admin </td>
+      <td align="center"> Login, Maintain Employee Info Add/Del, Create Administrative Report </td>
+      <td align="center"> </td>  
+    </tr>
+    <tr>
+      <td align="center"> System Clock </td>
+      <td align="center"> Run Payroll </td>
+      <td align="center"> Printer, Bank System </td>
     </tr>
   </tbody>
 </table>
