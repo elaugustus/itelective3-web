@@ -89,4 +89,20 @@
     <p align="justify">
     To ensure that the employee who has been enlisted in the system is active and is still a part of the city government’s employees, the payroll administrator will have the authority to remove, add, and manage the people who have access to the platform. Once the employee is officially deemed inactive, the Payroll administrator has the capacity to remove the employee from the list. The administrator would also have to create an official report regarding the employees in the payroll. Through this, the management system would be maintained and properly assessed, securing that there wouldn’t be any anomalies in the list. 
     </p>
+  <br>
+  <br> 
+  <b> 
+    4. SYSTEM CLOCK
+  </b>
+  <br> 
+  <br> 
+    <p align="justify">
+      The System Clock enables the company, which in this case is the local city government, to determine when the payroll has been run. This is necessary in order for the design government unit to deposit/distribute the salary to the respective employees, and for the payroll to be printed.  
+    </p>
 </body>
+<br>
+<br>
+<br>
+<h3>
+  THE DEVELOPMENT OF THE PAYROLL MANAGEMENT SYSTEM
+</h3>
