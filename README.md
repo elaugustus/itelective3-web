@@ -7,6 +7,9 @@
     <th align="right"> <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Ateneo_de_Davao_University_logo.png" width=200> </th>
   </tr>  
 </table>
+<br>
+<img src="https://tagumcity.gov.ph/wp-content/themes/wp-bootstrap-starter-child/public/images/logo.png" style="margin-right: 30px">
+<img src="https://upload.wikimedia.org/wikipedia/en/6/64/Ateneo_de_Davao_University_logo.png" width=200 style="margin-left: 30px" >
 
 <h4 align="center">
   City Government of Tagum | Ateneo de Davao University
