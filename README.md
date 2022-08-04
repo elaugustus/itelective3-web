@@ -1,10 +1,10 @@
 ##### itelective3-web
 
 
-<table> 
+<table align="center"> 
   <tr>
     <th align="left"> <img src="https://tagumcity.gov.ph/wp-content/themes/wp-bootstrap-starter-child/public/images/logo.png"> </th>
-    <th align="right"> <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Ateneo_de_Davao_University_logo.png"> </th>
+    <th align="right"> <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Ateneo_de_Davao_University_logo.png" width=100> </th>
   </tr>  
 </table>
 
