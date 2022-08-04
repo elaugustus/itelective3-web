@@ -106,3 +106,22 @@
 <h3>
   THE DEVELOPMENT OF THE PAYROLL MANAGEMENT SYSTEM
 </h3>
+<br> 
+<br> 
+<body> 
+ <p align="center">
+  <i> 
+    Drupal is an open source content management platform supporting a variety of websites ranging from personal weblogs to large community-driven websites.
+  <i>  
+ </p>
+<br> 
+<br> 
+  <b>
+    DRUPAL
+  </b>
+<br>
+<br>
+   <p align="justify">
+   Drupal is an all-round content management system that expands itself to offering different tools that enables users to seamlessly navigate through contents, and the company to manage their contents. At best, Drupal enables developers to build flexible content publishing workflows and different types of dynamic features useful for the project. 
+   </p>
+</body> 
