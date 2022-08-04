@@ -108,6 +108,7 @@
 </h3>
 <br> 
 <br> 
+<img src="https://www.drupal.org/files/cta/graphic/Wordmark2_white_RGB.svg">
 <body> 
  <p align="center">
   <i> 
