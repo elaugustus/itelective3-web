@@ -69,4 +69,14 @@
     <p align="justify">
     The system must be able to allow employees to conveniently perform their traditional tasks in building their payroll information. Traditionally, each employee must be able to determine their preference in terms of the payment method, submit their authenticated timecard, and their employee report. These traditional methods of payroll assessment must be inherited by the system. In doing so, each employee is expected to secure an account with their log-in details. Through that, each employee will be able to fill the required information necessary for the payroll system.
   </p>
+  <br>
+  <br>
+  <b> 
+    2. PROJECT MANAGEMENT DATABASE
+  </b>
+  <br> 
+  <br> 
+    <p align="justify">
+    In a traditional sense, each of the employee’s necessary payroll information, such as their preference, personal information, performance, are all contained exclusively in the HR Department. While that is still necessary, the Payroll Management System is expected to hold the working hours accumulated by the employee, reports, and preferences that would all be necessary to create a payroll. The Payroll Management System has to secure each of the employee’s assessed information to the database, and would simply return it when queried or utilized.
+    </p>
 </body>
