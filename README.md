@@ -108,7 +108,9 @@
 </h3>
 <br> 
 <br> 
+<p align="center">
 <img src="https://www.drupal.org/files/cta/graphic/Wordmark2_white_RGB.svg" style="display: inline-block; margin: 0 auto; max-width: 300px">
+</p>
 <body> 
  <p align="center">
   <i> 
