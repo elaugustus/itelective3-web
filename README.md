@@ -1,12 +1,7 @@
 ##### itelective3-web
 
-<p style="border:0px">
-<table align="center" style="border:0px solid white; width:100%;"> 
-  <tr style="border: 0px;">
-    <td align="left"> <img src="https://tagumcity.gov.ph/wp-content/themes/wp-bootstrap-starter-child/public/images/logo.png"> </td>
-    <td align="right"> <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Ateneo_de_Davao_University_logo.png" width=200> </td>
-  </tr>  
-</table>
+<p align="center">
+<img src="https://tagumcity.gov.ph/wp-content/themes/wp-bootstrap-starter-child/public/images/logo.png"><img src="https://upload.wikimedia.org/wikipedia/en/6/64/Ateneo_de_Davao_University_logo.png" width=200>
 </p>
 <br>
 <p align="left">
@@ -123,9 +118,11 @@
 </p>
 <body> 
  <p align="center">
-  <i> 
+  <a href="https://github.com/drupal/drupal">
+   <i> 
     Drupal is an open source content management platform supporting a variety of websites ranging from personal weblogs to large community-driven websites.
   </i>  
+   </a>
  </p>
 <br> 
 <br> 
@@ -144,6 +141,6 @@
     </b>
   <p align="justify">
     
-  Drupal acts as the central component of Digital Experience Platform (DXP), which means that developers can integrate the platform with payment gateways, CRMs, analytics tools, social media, and marketing automation platforms. In hindsight, Drupal is a flexible platform with highly customizable features, freely available modules, and active community. It enables editors and administrators to easily search, draft, edit, publish content. Conveniently, Drupal also opens itself to users who have no coding background by offering layouts and templates. Lastly, Drupal offers a cohesive workflow, online directors, interactive website designs, and marketing portals—all of which are useful to the overall development of this particular project. 
+  Drupal acts as the central component of Digital Experience Platform (DXP), which means that developers can integrate the platform with payment gateways, CRMs, analytics tools, social media, and marketing automation platforms. In hindsight, Drupal is a flexible platform with highly customizable features, freely available modules, and active community. It enables editors and administrators to easily search, draft, edit, publish content. Conveniently, Drupal also opens itself to users who have no coding background by offering layouts and templates. Lastly, Drupal offers a cohesive workflow, online directors, interactive website designs, and marketing portals—all of which are useful to the overall development of this particular project. <a href="https://evolvingweb.ca/blog/what-is-drupal#:~:text=Drupal%20at%20its%20core%20is,dynamic%20features%20around%20that%20content."> [Learn More] </a>
   </p>
 </body> 
