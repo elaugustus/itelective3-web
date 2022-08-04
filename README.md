@@ -1,5 +1,6 @@
-##### itelective3-web
-
+##### Alver El John H. Linaza | BS Computer Science - 4A | itelective3-web
+<br>
+<br>
 <p align="center">
 <img src="https://tagumcity.gov.ph/wp-content/themes/wp-bootstrap-starter-child/public/images/logo.png"><img src="https://upload.wikimedia.org/wikipedia/en/6/64/Ateneo_de_Davao_University_logo.png" width=200>
 </p>
@@ -16,9 +17,19 @@
 </h5>
 <br>
 <br>
-<body>
-  <p align="justify"> 
-  As part of the continuous progress and innovation by the local city government, the Payroll Management System holds itself as a web-application platform that caters to employees that have been legally employed by Tagum City’s local government unit/s. The platform is designed to secure the enlisted employees who should be receiving their salary, as guided by the local government. The platform is expected to contain the data necessary for the monthly payroll. Additionally, the platform is also built to perform particular transactions and processes that would ease up the traditional payroll system.
+<body> 
+ <h5 align="center"><i>
+   As part of the continuous progress and innovation by the local city government, the Payroll Management System holds itself as a web-application platform that caters to employees that have been legally employed by Tagum City’s local government unit/s. 
+   </i>
+  </h5>
+  <br>
+ <p align="center">
+  ___________________________________________________________
+  </p> 
+   <br>
+  <br>
+  <p align="justify">
+   The platform is designed to secure the enlisted employees who should be receiving their salary, as guided by the local government. The platform is expected to contain the data necessary for the monthly payroll. Additionally, the platform is also built to perform particular transactions and processes that would ease up the traditional payroll system.
   </p>
 </body>
 <br>
