@@ -79,4 +79,14 @@
     <p align="justify">
     In a traditional sense, each of the employee’s necessary payroll information, such as their preference, personal information, performance, are all contained exclusively in the HR Department. While that is still necessary, the Payroll Management System is expected to hold the working hours accumulated by the employee, reports, and preferences that would all be necessary to create a payroll. The Payroll Management System has to secure each of the employee’s assessed information to the database, and would simply return it when queried or utilized.
     </p>
+  <br>
+  <br> 
+  <b>
+    3. THE PAYROLL ADMINISTRATOR 
+  </b>
+  <br>
+  <br>
+    <p align="justify">
+    To ensure that the employee who has been enlisted in the system is active and is still a part of the city government’s employees, the payroll administrator will have the authority to remove, add, and manage the people who have access to the platform. Once the employee is officially deemed inactive, the Payroll administrator has the capacity to remove the employee from the list. The administrator would also have to create an official report regarding the employees in the payroll. Through this, the management system would be maintained and properly assessed, securing that there wouldn’t be any anomalies in the list. 
+    </p>
 </body>
