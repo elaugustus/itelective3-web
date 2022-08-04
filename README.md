@@ -1,5 +1,13 @@
 ##### itelective3-web
 
+
+<table> 
+  <tr>
+    <th align="left"> <img src="https://tagumcity.gov.ph/wp-content/themes/wp-bootstrap-starter-child/public/images/logo.png"> </th>
+    <th align="right"> <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Ateneo_de_Davao_University_logo.png"> </th>
+  </tr>  
+</table>
+
 <h4 align="center">
   City Government of Tagum | Ateneo de Davao University
 </h3>
