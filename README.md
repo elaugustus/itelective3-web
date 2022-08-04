@@ -124,4 +124,13 @@
    <p align="justify">
    Drupal is an all-round content management system that expands itself to offering different tools that enables users to seamlessly navigate through contents, and the company to manage their contents. At best, Drupal enables developers to build flexible content publishing workflows and different types of dynamic features useful for the project. 
    </p>
+  <br>
+  <br> 
+    <b>
+      FEATURES OF DRUPAL 
+    </b>
+  <p align="justify">
+    
+  Drupal acts as the central component of Digital Experience Platform (DXP), which means that developers can integrate the platform with payment gateways, CRMs, analytics tools, social media, and marketing automation platforms. In hindsight, Drupal is a flexible platform with highly customizable features, freely available modules, and active community. It enables editors and administrators to easily search, draft, edit, publish content. Conveniently, Drupal also opens itself to users who have no coding background by offering layouts and templates. Lastly, Drupal offers a cohesive workflow, online directors, interactive website designs, and marketing portals—all of which are useful to the overall development of this particular project. 
+  </p>
 </body> 
