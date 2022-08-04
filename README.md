@@ -1,19 +1,15 @@
 ##### itelective3-web
 
-
-<table align="center" style="border:0px solid white;"> 
-  <tr>
-    <th align="left"> <img src="https://tagumcity.gov.ph/wp-content/themes/wp-bootstrap-starter-child/public/images/logo.png"> </th>
-    <th align="right"> <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Ateneo_de_Davao_University_logo.png" width=200> </th>
+<p style="border:0px">
+<table align="center" style="border:0px solid white; width:100%;"> 
+  <tr style="border: 0px;">
+    <td align="left"> <img src="https://tagumcity.gov.ph/wp-content/themes/wp-bootstrap-starter-child/public/images/logo.png"> </td>
+    <td align="right"> <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Ateneo_de_Davao_University_logo.png" width=200> </td>
   </tr>  
 </table>
+</p>
 <br>
 <p align="left">
-<img src="https://tagumcity.gov.ph/wp-content/themes/wp-bootstrap-starter-child/public/images/logo.png" style="margin-right: 30px">
-</p>
-<p align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Ateneo_de_Davao_University_logo.png" width=200 style="margin-left: 30px" >
-</p>
 <h4 align="center">
   City Government of Tagum | Ateneo de Davao University
 </h3>
