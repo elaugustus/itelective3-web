@@ -137,10 +137,16 @@ section{
 }
 /*NAVIGATION BAR*/
 
+.tagum-logo-real{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+}
 .navbar {
     position: sticky;
     background-color: rgb(176, 193, 148);
-    height: 50px;
+    height: 100px;
     font-family: 'Quicksand', sans-serif;
 
 }
@@ -154,6 +160,9 @@ section{
     color: rgb(202, 207, 179);
 }
 
+.nav-link {
+    font-family: 'Quicksand', sans-serif;
+}
 
 @media all and (max-height:1000px) {
     .tagum-gr-1{
@@ -162,6 +171,14 @@ section{
 
     .tagum-log0{
         position: absolute;
+    }
+
+    .tagum-logo-real{
+        position: relative;
+        height: 100px;
+        width: 100px;
+        margin-left: 50px;
+    
     }
 }
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
