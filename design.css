@@ -1,0 +1,167 @@
+body{ 
+    margin: 0;
+    
+}
+
+
+/* SECTION */
+
+.container{
+    position: relative;
+}
+section{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 695px;
+}
+
+.tagum-gr-1{
+    position: relative;
+    opacity: 0.8;
+    object-fit: cover;
+    height:100%;
+    width: 100%;
+    z-index: 0;
+}
+
+.tagum-logo{
+    position: relative;
+    opacity: 1;
+    z-index: 4;
+}
+
+.button-sign{
+    z-index: 4;
+    position: relative;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 100px;
+    border-radius: 12px;
+    margin-top: 0%;
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+    font-family: 'Quicksand', sans-serif;;
+}
+
+.button-log{
+    z-index: 4;
+    position: relative;
+    margin-left: 40px;
+    border-radius: 12px;
+    margin-top: 0%;
+    text-align: center;
+    font-size: 25px;
+
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+    font-family: 'Quicksand', sans-serif;
+}
+.first-sec {
+    background: rgb(136,150,117);
+    background: linear-gradient(90deg, rgba(136,150,117,1) 0%, rgba(230,229,176,1) 62%);
+}
+
+.first-sec-curve {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.first-sec-curve svg {
+    position: relative;
+    display: block;
+    width: calc(247% + 1.3px);
+    height: 488px;
+    transform: rotateY(180deg);
+}
+
+.first-sec-curve .shape-fill {
+    fill: rgb(55,68,57);
+    opacity: 0.9999;
+}
+
+.second-sec{
+    background: #374439;
+
+}
+
+.head-1 {
+    margin-top: 30px;
+    margin-left: 50px;
+    font-family: 'Alice', serif;
+    font-size: 70px;
+    font-style: italic;
+    color: #fff;
+}
+
+.body-1{
+    margin-top: 60px;
+    margin-left: 80px;
+    font-family: 'Alice', serif;
+    font-size: 18px;
+    font-style: italic;
+    color: #fff;
+    text-align: justify;
+}
+
+.head-2 {
+    margin-top: 30px;
+    margin-left: 50px;
+    font-family: 'Alice', serif;
+    font-size: 70px;
+    font-style: italic;
+    color: #fff;
+    text-align: left;
+}
+
+.body-2{ 
+    margin-top: 60px;
+    margin-left: 80px;
+    font-family: 'Alice', serif;
+    font-size: 18px;
+    font-style: italic;
+    color: #fff;
+    text-align: justify;
+}
+/*NAVIGATION BAR*/
+
+.navbar {
+    position: sticky;
+    background-color: rgb(176, 193, 148);
+    height: 50px;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.nav-link, .navbar-brand {
+    color: rgb(3, 44, 6);
+    cursor: pointer;
+}
+
+.nav-link:hover {
+    color: rgb(202, 207, 179);
+}
+
+
+@media all and (max-height:1000px) {
+    .tagum-gr-1{
+        position: absolute;
+    }
+
+    .tagum-log0{
+        position: absolute;
+    }
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
